@@ -5,3 +5,5 @@ Complete different local message.
 
 
 Last branch changes.
+
+Git bash changes.
