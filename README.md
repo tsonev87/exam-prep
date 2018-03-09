@@ -7,3 +7,5 @@ Complete different local message.
 Last branch changes.
 
 Git bash changes.
+
+Online changes to make a conflict.
